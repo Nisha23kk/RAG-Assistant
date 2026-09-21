@@ -1,0 +1,228 @@
+[
+  {
+    "role": "user",
+    "content": "what is the cgpa "
+  },
+  {
+    "role": "assistant",
+    "content": "The CGPA is 7.29 out of 10.",
+    "source_type": "document",
+    "sources": [
+      {
+        "page_content": "Key Type: Test Key ID\nValue: rzp_test_StW4MsKnYLEyEv",
+        "metadata": {
+          "source": "razorpay_test_api_keys_1779694472535.csv",
+          "row": 0,
+          "filename": "razorpay_test_api_keys_1779694472535.csv",
+          "file_type": "csv"
+        }
+      },
+      {
+        "page_content": "Key Type: Test Key Secret\nValue: xti6IwDO6GKm24usCORlG8va",
+        "metadata": {
+          "source": "razorpay_test_api_keys_1779694472535.csv",
+          "row": 1,
+          "filename": "razorpay_test_api_keys_1779694472535.csv",
+          "file_type": "csv"
+        }
+      },
+      {
+        "page_content": "CORS, Helmet.js, Rate Limiting.\nProjects\nPharmacy Management System “New Drug”(MERN)Live Demo|GitHub\n•Built and deployed a full-stackMERN Pharmacy Management Systemwith3 RBAC roles(Admin,\nStaff, Customer) covering inventory, billing, orders, analytics, and user management.\n•Engineeredmultiple REST APIswithNode.js, Express.js, and MongoDB, integratingJWT au-\nthentication, OTP verification, bcrypt, rate limiting, and route protection.\n•IntegratedRazorpay payments, Cloudinary , and transactional email, with production deployment\nonRenderand centralized logging, error handling, and security middleware.\nRAG-Based Intelligent Document Assistant(Python, Streamlit, LangChain, F AISS)GitHub\n•Built aRAG-based AI Document Assistantsupporting10+ documents across 8+ formats,\nachieving∼90% answer relevancewith semantic Q&A and web-search fallback.\n•Reduced response latency by∼40%and irrelevant retrievals by∼30%usingsimilarity-score filtering\nanddual-model LLM routing.\n•Implementedmulti-user authenticationand avoice assistantusing Speech Recognition, Edge-TTS,\nand noise filtering.\nResponsible AI F ramework using Generative AI(Python, Numpy, Matplotlib, Seaborn)GitHub",
+        "metadata": {
+          "producer": "pdfTeX-1.40.27",
+          "creator": "LaTeX with hyperref",
+          "creationdate": "2026-09-13T09:31:03+00:00",
+          "author": "",
+          "keywords": "",
+          "moddate": "2026-09-13T09:31:03+00:00",
+          "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+          "subject": "",
+          "title": "",
+          "trapped": "/False",
+          "source": "Shahwaz Alam_Resume.pdf",
+          "total_pages": 1,
+          "page": 0,
+          "page_label": "1",
+          "filename": "Shahwaz Alam_Resume.pdf",
+          "file_type": "pdf"
+        }
+      },
+      {
+        "page_content": "and noise filtering.\nResponsible AI F ramework using Generative AI(Python, Numpy, Matplotlib, Seaborn)GitHub\n•Developed an end-to-endResponsible AI pipelinecovering dataset validation, bias detection, and fair-\nness evaluation, achievingEDQS∼96andRAI∼90.\n•ImplementedCTGAN-based synthetic data generation withSMOTEbalancing, reducing model bias\n(ERI) by∼25%.\n•Built anensemble model(RandomForest + GradientBoosting) withSHAP-based explainability,\nintegrated into anLLM-driven feedback loopfor automated model evaluation and decision-making.\nAchievements & Certifications\n•Participated in the college-levelHackF est Hackathon.\n•Agentic AI Certified F oundations Associate. Certificate\n•Oracle Cloud Infrastructure Certified AI F oundations Associate. Certificate\n•Oracle AI Database Certified F oundations Associate. Certificate\nEducation\nT echno International New T own, W est Bengal 2022–2026\nB.Tech in Computer Science and Engineering (Data Science)7.29/10\nBest Model Public School, Bihar 2020\nIntermediate (CBSE) 74.67/100\nDhanbad City School, Jharkhand 2018\nMatriculate (CBSE) 84.83/100",
+        "metadata": {
+          "producer": "pdfTeX-1.40.27",
+          "creator": "LaTeX with hyperref",
+          "creationdate": "2026-09-13T09:31:03+00:00",
+          "author": "",
+          "keywords": "",
+          "moddate": "2026-09-13T09:31:03+00:00",
+          "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+          "subject": "",
+          "title": "",
+          "trapped": "/False",
+          "source": "Shahwaz Alam_Resume.pdf",
+          "total_pages": 1,
+          "page": 0,
+          "page_label": "1",
+          "filename": "Shahwaz Alam_Resume.pdf",
+          "file_type": "pdf"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "who is shazam"
+  },
+  {
+    "role": "assistant",
+    "content": "**Shazam** can refer to two well‑known, but very different, entities in popular culture:  \n\n---\n\n## 1. Shazam – the DC Comics superhero  \n\n- **Alter‑ego:** William Joseph “Billy” Batson, a young boy.  \n- **How he becomes a hero:** By speaking the magic word **“SHAZAM!”** he is transformed into an adult costumed superhero.  \n- **Origin of the word:** “SHAZAM” is an acronym for six mythic figures whose powers he receives: **S**olomon, **H**ercules, **A**tlas, **Z**eus, **A**chilles, and **M**ercury.  \n- **Source of his powers:** The wizard known as **Wizard Shazam** (the wise old man who grants the boy his abilities) bestows both the name and the magical abilities.  \n- **First appearance:** The character debuted in *Whiz Comics #2* (February 1940), created by C.C. Beck and Bill Parker.  \n\nThus, Shazam is the superhero identity that Billy Batson assumes when he invokes the ancient wizard’s magic, gaining the combined strengths of the six legendary elders.\n\n---\n\n## 2. Wizard Shazam – the mentor figure  \n\n- **Role:** A fictional wizard who appears in the same comic universe.  \n- **Function:** He serves as the wise‑old‑man archetype who **empowers champions** by granting them the name “Shazam” and the associated powers.  \n- **Publication history:** First introduced in the same 1940 debut issue of *Whiz Comics* and has remained a major supporting character in Shazam‑related titles.  \n\n---\n\n## 3. Shazam – the music‑identification app  \n\n- **Purpose:** A mobile application that listens to a short audio clip and instantly identifies the song, artist, and related metadata.  \n- **Leadership (as of the latest information):** **Rich Riley** became CEO in April 2013, succeeding Andrew Fisher, who had been hired in 2005 to expand industry partnerships and grow the user base.  \n- **Corporate background:** The app is a well‑known service for music discovery, separate from the comic‑book character but sharing the same name.  \n\n---\n\n### Summary  \n\n- **In comics**, Shazam is the heroic form of Billy Batson, created by a magical wizard and powered by six legendary figures.  \n- **Wizard Shazam** is the mentor who grants those powers.  \n- **In technology**, Shazam is a popular music‑recognition app, led by CEO Rich Riley since 2013.  \n\nEach usage of “Shazam” belongs to a distinct domain—superhero fiction, supporting wizard lore, and mobile music technology—yet all share the common theme of “calling upon a powerful name to achieve an extraordinary result.”",
+    "source_type": "web",
+    "sources": [
+      {
+        "title": "Who Is Shad Moss ?",
+        "url": "https://en.wikipedia.org/wiki/Who_Is_Shad_Moss_?",
+        "snippet": "Shad Gregory Moss (born March 9, 1987), better known by his stage name Bow Wow (formerly Lil' Bow Wow), is an American rapper and actor. His career began upon being discovered by rapper Snoop Dogg in 1993 at the age of six; five years later, he signed with record producer Jermaine Dupri's So So Def Recordings, an imprint of Columbia Records. As Lil' Bow Wow, his debut studio album, Beware of Dog (2000), was released at the age of 13, and followed by his second album, Doggy Bag (2001). Both commercial successes, the albums peaked at numbers 8 and 11 on the Billboard 200, respectively.Moss then parted ways with So So Def and signed with its parent label, Columbia Records, to release his third album, Unleashed (2003). It peaked at number three on the Billboard 200 and was his first release after dropping \"Lil'\" from his stage name. His fourth album, Wanted (2005), spawned the singles \"Let Me Hold You\" (featuring Omarion) and \"Like You\" (featuring Ciara), which peaked at numbers four and three on the Billboard Hot 100, respectively, and remain his highest-charting songs. His 2006 single, \"Shortie Like Mine\" (featuring Chris Brown and Johntá Austin), peaked within the chart's top ten and preceded the release of his fifth album, The Price of Fame (2006). His sixth, New Jack City II (2009), was met with trailing critical and commercial response, serving as his final album on a major label. He briefly signed with Birdman's Cash Money Records in 2009 to release a series of promotional singles—including \"Ain't Thinkin' 'Bout You\" (featuring Chris Brown) and \"Sweat\" (featuring Lil Wayne)—for his seventh album Underrated, which remains unreleased. He then signed with Puff Daddy's Bad Boy Records in 2015, and again released no projects with the label.Moss first appeared in the 2002 film All About the Benjamins as a cameo. That same year, Moss was cast in the lead role for the sports comedy film, Like Mike. He later starred in the films Johnson Family Vacation in 2004 and Roll Bounce in 2005. He played a supporting role in the film The Fast and the Furious: Tokyo Drift in 2006, a character he reprised in F9 (2021). Moss appeared in five episodes of the television series Entourage, and starred as Brody Nelson in CSI: Cyber until the show's 2016 cancellation."
+      },
+      {
+        "title": "Shazam (DC Comics) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shazam_(DC_Comics)",
+        "snippet": "1 week ago - Shazam is the alter-ego of William Joseph \"Billy\" Batson, a young boy who is granted magical powers by the Wizard by speaking the magic word \"SHAZAM!\", an acronym of six \"immortal elders\": Solomon, Hercules, Atlas, Zeus, Achilles, and Mercury, and transforms into a costumed adult superhero ..."
+      },
+      {
+        "title": "Shazam (music app) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shazam_(music_app)",
+        "snippet": "3 days ago - Rich Riley joined Shazam as CEO in April 2013. after over 13 years at Yahoo Riley replaced Andrew Fisher, who was hired from Infospace into the CEO role in 2005 to strengthen industry partnerships and grow the userbase. Fisher is now executive chairman."
+      },
+      {
+        "title": "Wizard Shazam - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wizard_Shazam",
+        "snippet": "2 weeks ago - The Wizard Shazam, also known as ... Wizard, is a fictional character appearing in American comic books published by Fawcett Comics and DC Comics, first appearing in Whiz Comics #2 (February, 1940) created by C.C. Beck and Bill Parker. A major supporting character in Shazam!-related comic book titles, he often serves as a wise old man archetype who empowers champions ..."
+      },
+      {
+        "title": "Shazam (application)",
+        "url": "https://en.wikipedia.org/wiki/Shazam_(application)",
+        "snippet": "November 15, 2025 - Wizard Shazam, a major supporting character and wizard who gives the aforementioned superhero both his namesake and superpowers."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "college name "
+  },
+  {
+    "role": "assistant",
+    "content": "Techno International New Town, West Bengal.",
+    "source_type": "document",
+    "sources": [
+      {
+        "page_content": "and noise filtering.\nResponsible AI F ramework using Generative AI(Python, Numpy, Matplotlib, Seaborn)GitHub\n•Developed an end-to-endResponsible AI pipelinecovering dataset validation, bias detection, and fair-\nness evaluation, achievingEDQS∼96andRAI∼90.\n•ImplementedCTGAN-based synthetic data generation withSMOTEbalancing, reducing model bias\n(ERI) by∼25%.\n•Built anensemble model(RandomForest + GradientBoosting) withSHAP-based explainability,\nintegrated into anLLM-driven feedback loopfor automated model evaluation and decision-making.\nAchievements & Certifications\n•Participated in the college-levelHackF est Hackathon.\n•Agentic AI Certified F oundations Associate. Certificate\n•Oracle Cloud Infrastructure Certified AI F oundations Associate. Certificate\n•Oracle AI Database Certified F oundations Associate. Certificate\nEducation\nT echno International New T own, W est Bengal 2022–2026\nB.Tech in Computer Science and Engineering (Data Science)7.29/10\nBest Model Public School, Bihar 2020\nIntermediate (CBSE) 74.67/100\nDhanbad City School, Jharkhand 2018\nMatriculate (CBSE) 84.83/100",
+        "metadata": {
+          "producer": "pdfTeX-1.40.27",
+          "creator": "LaTeX with hyperref",
+          "creationdate": "2026-09-13T09:31:03+00:00",
+          "author": "",
+          "keywords": "",
+          "moddate": "2026-09-13T09:31:03+00:00",
+          "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+          "subject": "",
+          "title": "",
+          "trapped": "/False",
+          "source": "Shahwaz Alam_Resume.pdf",
+          "total_pages": 1,
+          "page": 0,
+          "page_label": "1",
+          "filename": "Shahwaz Alam_Resume.pdf",
+          "file_type": "pdf"
+        }
+      },
+      {
+        "page_content": "Shahwaz Alam\n/githubazamshahwaz| /linkedinShahwaz Alam| ✉ azamshahwaz@gmail.com| ♂¶obile9341193488| ♂¶ap-¶arkerBengaluru\nSummary\nB.Tech CSE graduate skilled inF ull Stack Development (MERN stack)React.js, Node.js, Express.js,\nMongoDB, RESTful APIs, JWT/RBAC with exposure toAI/ML Generative AI (LangChain, RAG).\nSeeking roles asSoftware Engineer, MERN Stack/F ull Stack Developer, or AI/ML Engineer.\nSkills\nLanguages:Java, Python, JavaScript, SQL.\nAI/ML & Generative AI:LangChain, F AISS, HuggingFace Sentence-Transformers, Groq LLM API, RAG,\nCTGAN, SMOTE, SHAP, Scikit-learn (RandomForest, GradientBoosting), NLP.\nDatabases:MySQL, MongoDB.\nF rameworks & Libraries:React.js, Node.js, Express.js, RESTful APIs, Tailwind CSS, Express Validator.\nDeployment & T ools:Git, GitHub, Postman, A WS, Docker, Render.\nPayments & Services:Razorpay, Cloudinary, Brevo SMTP, Multer.\nCoursework:Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems,\nComputer Networks, Software Engineering.\nAuthentication & Security:JWT, bcrypt, RBAC, Authentication & Authorization, Input Validation,\nCORS, Helmet.js, Rate Limiting.\nProjects\nPharmacy Management System “New Drug”(MERN)Live Demo|GitHub",
+        "metadata": {
+          "producer": "pdfTeX-1.40.27",
+          "creator": "LaTeX with hyperref",
+          "creationdate": "2026-09-13T09:31:03+00:00",
+          "author": "",
+          "keywords": "",
+          "moddate": "2026-09-13T09:31:03+00:00",
+          "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+          "subject": "",
+          "title": "",
+          "trapped": "/False",
+          "source": "Shahwaz Alam_Resume.pdf",
+          "total_pages": 1,
+          "page": 0,
+          "page_label": "1",
+          "filename": "Shahwaz Alam_Resume.pdf",
+          "file_type": "pdf"
+        }
+      },
+      {
+        "page_content": "CORS, Helmet.js, Rate Limiting.\nProjects\nPharmacy Management System “New Drug”(MERN)Live Demo|GitHub\n•Built and deployed a full-stackMERN Pharmacy Management Systemwith3 RBAC roles(Admin,\nStaff, Customer) covering inventory, billing, orders, analytics, and user management.\n•Engineeredmultiple REST APIswithNode.js, Express.js, and MongoDB, integratingJWT au-\nthentication, OTP verification, bcrypt, rate limiting, and route protection.\n•IntegratedRazorpay payments, Cloudinary , and transactional email, with production deployment\nonRenderand centralized logging, error handling, and security middleware.\nRAG-Based Intelligent Document Assistant(Python, Streamlit, LangChain, F AISS)GitHub\n•Built aRAG-based AI Document Assistantsupporting10+ documents across 8+ formats,\nachieving∼90% answer relevancewith semantic Q&A and web-search fallback.\n•Reduced response latency by∼40%and irrelevant retrievals by∼30%usingsimilarity-score filtering\nanddual-model LLM routing.\n•Implementedmulti-user authenticationand avoice assistantusing Speech Recognition, Edge-TTS,\nand noise filtering.\nResponsible AI F ramework using Generative AI(Python, Numpy, Matplotlib, Seaborn)GitHub",
+        "metadata": {
+          "producer": "pdfTeX-1.40.27",
+          "creator": "LaTeX with hyperref",
+          "creationdate": "2026-09-13T09:31:03+00:00",
+          "author": "",
+          "keywords": "",
+          "moddate": "2026-09-13T09:31:03+00:00",
+          "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+          "subject": "",
+          "title": "",
+          "trapped": "/False",
+          "source": "Shahwaz Alam_Resume.pdf",
+          "total_pages": 1,
+          "page": 0,
+          "page_label": "1",
+          "filename": "Shahwaz Alam_Resume.pdf",
+          "file_type": "pdf"
+        }
+      },
+      {
+        "page_content": "Key Type: Test Key ID\nValue: rzp_test_StW4MsKnYLEyEv",
+        "metadata": {
+          "source": "razorpay_test_api_keys_1779694472535.csv",
+          "row": 0,
+          "filename": "razorpay_test_api_keys_1779694472535.csv",
+          "file_type": "csv"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "what is techno india university"
+  },
+  {
+    "role": "assistant",
+    "content": "**Techno India University (TIU) – Overview**\n\nTechno India University is a **private, fully‑fledged university** located in **Kolkata, West Bengal, India**. It is notable for being one of the first privately owned universities established in the state of West Bengal.\n\n---\n\n### Key Characteristics  \n\n| Aspect | Details |\n|--------|---------|\n| **Type** | Private university |\n| **Location** | Kolkata, West Bengal, India |\n| **Accreditation** | Recognised by the University Grants Commission (UGC) and approved by the All India Council for Technical Education (AICTE) |\n| **Founding Significance** | Among the pioneering private universities in West Bengal |\n| **Campus** | Modern, technology‑enabled infrastructure with extensive teaching‑learning tools and industry‑linked facilities |\n\n---\n\n### Academic Portfolio  \n\nTechno India University offers a **broad spectrum of programmes** across multiple disciplines:\n\n- **Engineering & Technology** (B.Tech, M.Tech, etc.) – admissions through WBJEE, JEE Main, and other entrance exams.  \n- **Management** (BBA, MBA, etc.) – admissions via CAT, MAT, CMAT and merit.  \n- **Computer Applications & Design** – includes BCA, MCA, and design‑related degrees.  \n- **Science & Allied Health Sciences** – undergraduate and postgraduate courses in pure and applied sciences, nursing, physiotherapy, etc.  \n- **Humanities, Commerce & Law** – programmes in arts, commerce, and legal studies.  \n- **Architecture & Media** – specialised courses in built environment and media studies.  \n\nOverall, the university provides **more than 225–245 distinct courses** spread over **16 streams**, catering to a wide range of student interests and career goals.\n\n---\n\n### Admission & Eligibility  \n\n- **Entrance‑based admissions** for technical and professional programmes (e.g., WBJEE, JEE Main for engineering; CAT, MAT, CMAT for management).  \n- **Merit‑based admissions** for several other courses, with eligibility criteria defined by the respective department.  \n\n---\n\n### Infrastructure & Learning Environment  \n\n- **World‑class campus** equipped with modern laboratories, smart classrooms, and digital learning platforms.  \n- **Industry‑linked training** and placement support, leveraging collaborations with corporate partners to enhance employability.  \n\n---\n\n### Reputation & Reach  \n\n- Recognised for its **comprehensive curriculum** and **multidisciplinary approach**.  \n- Attracts a large student body, with **over 225 courses** and a strong focus on **research, innovation, and skill development**.  \n\n---\n\n### Summary  \n\nTechno India University is a private institution in Kolkata that combines **UGC and AICTE accreditation** with a **diverse academic offering** across engineering, management, sciences, humanities, and more. Its modern campus, industry connections, and status as an early private university in West Bengal make it a notable option for students seeking a wide range of professional and academic pathways.",
+    "source_type": "web",
+    "sources": [
+      {
+        "title": "Techno India University - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Techno_India_University",
+        "snippet": "Techno India University (TIU) is a private university in Kolkata, West Bengal, India. [1] The university is known for being one of the first privately owned universities in West Bengal. [1]"
+      },
+      {
+        "title": "Techno India University | Official Website",
+        "url": "https://www.technoindiauniversity.ac.in/",
+        "snippet": "Choose your Adventure Accredited by UGC and approved by AICTE, Techno India University, West Bengal is a full-fledged university with numerous study programmes in science, humanities, commerce, engineering, architecture, management, law and health sciences. The University provides world class infrastructure equipped with modern technology-enabled teaching- learning tools and vigorous industry ..."
+      },
+      {
+        "title": "Techno India University Kolkata: Admission 2026, Fees ... - Collegedunia",
+        "url": "https://collegedunia.com/university/15439-techno-india-university-kolkata",
+        "snippet": "Techno India University Kolkata is a institute in West Bengal offering over 225 courses. Read for details on Techno India University Kolkata Fees, Admission 2026, Courses, Placement, Ranking, Reviews and more"
+      },
+      {
+        "title": "Techno India University Kolkata: Fees, Admission 2026 ... - Shiksha",
+        "url": "https://www.shiksha.com/university/techno-india-university-kolkata-38061",
+        "snippet": "Techno India University, Kolkata offers 245 Courses across 16 Streams. Read 490 Student Reviews, 774 comments. Also Download Brochures & details on Cutoff, Placements, Fees & Admissions for various courses at Techno India University Kolkata."
+      },
+      {
+        "title": "Techno India University 2026: Courses, Fees, Admission, Placement",
+        "url": "https://www.collegedekho.com/colleges/techno-india-university",
+        "snippet": "Techno India University admission 2026 is open now. The university offers 20+ undergraduate and postgraduate courses in engineering, management, computer applications, design, science, allied health sciences, media, and other fields. Admission to different courses is based on the required entrance exam or merit. The university accepts WBJEE and JEE Main scores for B.Tech, CAT, MAT, and CMAT ..."
+      }
+    ]
+  }
+]

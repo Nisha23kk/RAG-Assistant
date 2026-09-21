@@ -1,0 +1,104 @@
+[
+  {
+    "role": "user",
+    "content": "who is mark zuckerberg"
+  },
+  {
+    "role": "assistant",
+    "content": "**Mark Zuckerberg – A Concise Biography**\n\n### Overview  \nMark Elliot Zuckerberg is an American technology executive, computer programmer, and entrepreneur best known for co‑founding the social‑media platform Facebook, which later evolved into the broader technology company Meta Platforms, Inc. He serves as the chief executive officer (CEO) and chairman of Meta.\n\n### Early Life & Education  \n- **Born:** May 14 1994, White Plains, New York, USA.  \n- **Family background:** Raised in a well‑educated, middle‑class family; his father is a dentist and his mother a psychiatrist.  \n- **Education:** Attended Phillips Exeter Academy, then enrolled at Harvard University in 2002, where he studied psychology and computer science. While at Harvard, he created “Facemash,” a precursor to Facebook, and later launched the site that would become Facebook in his dormitory room.\n\n### Founding Facebook (2004‑2006)  \n- **Launch:** In February 2004, Zuckerberg and fellow Harvard students launched “Thefacebook,” a social networking site limited to college campuses.  \n- **Growth:** Within a year the service expanded to other universities, then to the general public, quickly becoming the world’s largest social network.  \n- **Funding & Incorporation:** Secured early investment from venture capitalists such as Peter Thiel; incorporated as Facebook, Inc. in 2005.\n\n### Evolution into Meta Platforms (2021‑present)  \n- **Rebranding:** In October 2021, Zuckerberg announced that Facebook would be renamed **Meta Platforms, Inc.**, reflecting a strategic shift toward building the “metaverse”—a virtual‑reality‑driven online environment.  \n- **Leadership Role:** He remains the **CEO and chairman**, overseeing a portfolio that includes Facebook, Instagram, WhatsApp, Oculus VR, and other emerging technologies.\n\n### Major Achievements & Influence  \n- **Billionaire Status:** Consistently listed among the world’s wealthiest individuals; Forbes ranks him #5 on the 2026 Billionaires list.  \n- **Industry Impact:** Pioneered the modern social‑media business model, influencing how billions of people communicate, share content, and consume news.  \n- **Philanthropy:** Through the Chan Zuckerberg Initiative (co‑founded with his wife, Priscilla Chan), he has pledged billions toward education, scientific research, and criminal‑justice reform.  \n- **Public Profile:** Frequently cited as one of the most famous people globally, regularly appearing in top‑10 fame rankings.\n\n### Public Appearances & Controversies  \n- **U.S. Senate Testimony (2023):** Zuckerberg apologized to families of children harmed by bullying and exploitation on Meta’s platforms after intense questioning by Senator Josh Hawley.  \n- **Media Coverage:** His leadership style, handling of data‑privacy issues, and the company’s role in political discourse have been subjects of extensive public debate.\n\n### Personal Habits & Routine (as reported)  \n- **Daily Practices:** Emphasizes basic health habits such as staying hydrated, checking his apps regularly, and maintaining a thoughtful bedtime routine to ensure quality sleep.  \n- **Work Ethic:** Known for a disciplined schedule that balances intense product focus with brief personal downtime.\n\n### Summary  \nMark Zuckerberg is a pivotal figure in modern technology, having transformed a college‑room project into a global empire that reshapes communication, entertainment, and emerging virtual experiences. His role as CEO and chairman of Meta places him at the forefront of both current social‑media dynamics and future metaverse development, while his public visibility and philanthropic efforts continue to shape his legacy.",
+    "source_type": "web",
+    "sources": [
+      {
+        "title": "Mark Zuckerberg | Facebook Cofounder, Meta... | Britannica Money",
+        "url": "https://www.britannica.com/money/Mark-Zuckerberg",
+        "snippet": "Mark Zuckerberg is an American technology executive and computer programmer who cofounded the social...Also known as: Mark Elliot Zuckerberg. Written and fact-checked byThe Editors of Encyclopaedia Britannica."
+      },
+      {
+        "title": "Mark Zuckerberg",
+        "url": "https://www.forbes.com/profile/mark-zuckerberg/",
+        "snippet": "Mark Zuckerberg is #5 on Forbes' 2026 Billionaires list. Read more about Mark Zuckerberg, their experience, their asset summary, and more here.Is Mark Zuckerberg constructing a gold mine or a financial sinkhole?"
+      },
+      {
+        "title": "Facts about Mark Zuckerberg | TikTok",
+        "url": "https://www.tiktok.com/discover/facts-about-mark-zuckerberg",
+        "snippet": "Meta CEO Mark Zuckerberg apologised during a US Senate hearing to families of children who they say were harmed by bullying and exploitation on social media platforms. The apology was prompted by US senator Josh Hawley following his intense questioning of the tech billionaire."
+      },
+      {
+        "title": "Is Mark Zuckerberg’s Routine the Secret to Staying Ahead?",
+        "url": "https://routines.beehiiv.com/p/mark-zuckerberg-daily-routine",
+        "snippet": "Mark Zuckerberg drinking water. While Zuckerberg manages Meta, he also reminds us of life’s basics: check your apps, hydrate, and pretend you're human like the rest of us. His thoughtful bedtime routine and tools to ensure quality sleep. But fir..."
+      },
+      {
+        "title": "Who is the most famous person in the world in 2026? - Tuko.co.ke",
+        "url": "https://www.tuko.co.ke/facts-lifehacks/celebrity-biographies/537114-who-famous-person-world-top-list/",
+        "snippet": "Mark Zuckerberg is among the top 10 most famous persons in the world of all time. He is best known as the co-founder, CEO, and chairman of Facebook, a social media platform recently rebranded to include the metaverse."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "what is test key secret"
+  },
+  {
+    "role": "assistant",
+    "content": "The Test Key Secret is **xti6IwDO6GKm24usCORlG8va**.",
+    "source_type": "document",
+    "sources": [
+      {
+        "page_content": "Key Type: Test Key Secret\nValue: xti6IwDO6GKm24usCORlG8va",
+        "metadata": {
+          "source": "razorpay_test_api_keys_1779694472535.csv",
+          "row": 1,
+          "filename": "razorpay_test_api_keys_1779694472535.csv",
+          "file_type": "csv"
+        }
+      },
+      {
+        "page_content": "Key Type: Test Key ID\nValue: rzp_test_StW4MsKnYLEyEv",
+        "metadata": {
+          "source": "razorpay_test_api_keys_1779694472535.csv",
+          "row": 0,
+          "filename": "razorpay_test_api_keys_1779694472535.csv",
+          "file_type": "csv"
+        }
+      },
+      {
+        "page_content": "PAYMENT SUMMARY\n0 hour to 4 hours >4 hours\nCCU-BLR\nSame airline\nCCU-BLR\nDifferent airline\nADULT\nNot Available\nRs. 7,398\nADULT\nRs. 3,499\nRs. 4,999\nYour eCash Account\nEarned eCash Rs. 250\nAvailable\neCash Rs. 357\nFlight Price Rs.  7,188\nOnline Processing Fee Rs.  565\n(-) eCash Redeemed Rs.  143\nTotal Amount Rs.  7,610\nYou Paid Rs.  7,610\nPayment Mode UPI\n9/5/26, 3:32 PM Yatra.com | Flight Booking Confirmation\nhttps://secure.yatra.com/checkout-ui/dom2/confirmation?searchId=9d2fd5c5-2bae-48f6-9c53-04afbf11bc4d&pricingId=3241a8c7-c1ff-4ae4-8f8b-f6af21… 3/5",
+        "metadata": {
+          "producer": "Skia/PDF m152",
+          "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+          "creationdate": "2026-09-05T10:02:00+00:00",
+          "title": "Yatra.com | Flight Booking Confirmation",
+          "moddate": "2026-09-05T10:02:00+00:00",
+          "source": "Yatra.com _ Flight Booking Confirmation.pdf hasnain.pdf",
+          "total_pages": 5,
+          "page": 2,
+          "page_label": "3",
+          "filename": "Yatra.com _ Flight Booking Confirmation.pdf hasnain.pdf",
+          "file_type": "pdf"
+        }
+      },
+      {
+        "page_content": "•IntegratedSHAP-based explainabilitywithMatplotlib/Seabornvisualizations to analysefeature\nimportance, model behaviour, fairness, and Responsible AI metrics.\nPharmacy Management System “New Drug”(MERN)Live Demo|GitHub\n•Developed a full-stack pharmacy platform withJWT auth,RBAC, responsive dashboards, order tracking,\ninvoice generation, andCOD/Razorpaypayments.\n•Deployedon Render with production hardening: env configs, Brevo SMTP, rate limiting,Helmet.js,\ninput validation(express-validator),andCORSsecurity.\nAchievements\n•Participated in the college-levelHackF est Hackathon.\n•Achieved theOracle Cloud Infrastructure Certified AI F oundations Associatecertification (Oracle\nUniversity).\n•Achieved theAgentic AI Certified F oundations Associatecertification (Oracle University).\nEducation\nT echno International New T own, W est Bengal 2022–2026\nB.Tech in Computer Science and Engineering (Data Science)7.29/10\nBest Model Public School, Bihar 2020\nIntermediate (CBSE) 74.67/100\nDhanbad City School, Jharkhand 2018\nMatriculate (CBSE) 84.83/100",
+        "metadata": {
+          "producer": "pdfTeX-1.40.27",
+          "creator": "LaTeX with hyperref",
+          "creationdate": "2026-08-15T07:30:29+00:00",
+          "author": "",
+          "keywords": "",
+          "moddate": "2026-08-15T07:30:29+00:00",
+          "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+          "subject": "",
+          "title": "",
+          "trapped": "/False",
+          "source": "Shahwaz_Alam_resume.pdf",
+          "total_pages": 1,
+          "page": 0,
+          "page_label": "1",
+          "filename": "Shahwaz_Alam_resume.pdf",
+          "file_type": "pdf"
+        }
+      }
+    ]
+  }
+]

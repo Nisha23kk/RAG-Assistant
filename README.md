@@ -1,127 +1,147 @@
-🤖 RAG Assistant — AI Document Assistant
-An AI-powered Research & Document Assistant built with Python, Streamlit, LangChain, FAISS, Hugging Face Embeddings, and Groq LLMs.
+# 🤖 RAG Assistant — AI Document Assistant
+
+An AI-powered **Research & Document Assistant** built with **Python, Streamlit, LangChain, FAISS, Hugging Face Embeddings, and Groq LLMs**.
 
 RAG Assistant allows users to upload and interact with multiple documents, ask questions using text or voice, perform web research, generate AI-powered document analysis reports, manage private conversations, open websites through voice/chat commands, and generate images using natural-language prompts.
 
-✨ Features
-📄 1. Multi-Format Document Upload
-Upload and process multiple documents.
+---
 
-Supports up to 10 files at a time.
+## ✨ Features
 
-Supports:
+### 📄 1. Multi-Format Document Upload
 
-PDF
-DOC
-DOCX
-TXT
-CSV
-XLS
-XLSX
-PPTX
-PPT
-RTF
-ODT
-Markdown
-JSON
-HTML
-🧠 2. RAG-Based Question Answering
-Retrieval-Augmented Generation (RAG).
-Automatic document text extraction.
-Intelligent text chunking.
-Hugging Face sentence-transformer embeddings.
-FAISS vector database.
-Semantic similarity-based retrieval.
-Context-aware answers using Groq LLM.
-Answers grounded in uploaded document content.
-🔎 3. Intelligent Query Routing
+* Upload and process multiple documents.
+* Supports up to 10 files at a time.
+* Supports:
+
+  * PDF
+  * DOC
+  * DOCX
+  * TXT
+  * CSV
+  * XLS
+  * XLSX
+  * PPTX
+  * PPT
+  * RTF
+  * ODT
+  * Markdown
+  * JSON
+  * HTML
+
+### 🧠 2. RAG-Based Question Answering
+
+* Retrieval-Augmented Generation (RAG).
+* Automatic document text extraction.
+* Intelligent text chunking.
+* Hugging Face sentence-transformer embeddings.
+* FAISS vector database.
+* Semantic similarity-based retrieval.
+* Context-aware answers using Groq LLM.
+* Answers grounded in uploaded document content.
+
+### 🔎 3. Intelligent Query Routing
+
 Automatically determines the best source for answering a question:
 
-📄 Document Search
-🌐 Web Search
-🔄 Document + Web Search
-🤖 Direct LLM response when retrieval is not required
+* 📄 Document Search
+* 🌐 Web Search
+* 🔄 Document + Web Search
+* 🤖 Direct LLM response when retrieval is not required
+
 This allows the assistant to decide whether a question should be answered from uploaded documents, external web information, or both.
 
-🌐 4. Web Search & Research
-Web search using DuckDuckGo/DDGS.
-Research current and general information.
-Searches the web when required information is not available in uploaded documents.
-Combines web results with document context when required.
-Provides web-based research responses alongside document-based answers.
-📚 5. Source-Aware Answers
-Displays sources used to generate answers.
+### 🌐 4. Web Search & Research
 
-Provides relevant document references such as:
+* Web search using DuckDuckGo/DDGS.
+* Research current and general information.
+* Searches the web when required information is not available in uploaded documents.
+* Combines web results with document context when required.
+* Provides web-based research responses alongside document-based answers.
 
-File name
-Page number
-Slide number
-Excel sheet
-Helps users verify AI-generated responses against the original content.
+### 📚 5. Source-Aware Answers
 
-📊 6. AI-Powered Document Analysis
+* Displays sources used to generate answers.
+* Provides relevant document references such as:
+
+  * File name
+  * Page number
+  * Slide number
+  * Excel sheet
+* Helps users verify AI-generated responses against the original content.
+
+### 📊 6. AI-Powered Document Analysis
+
 Automatically analyzes different types of documents, including:
 
-Research Papers
-Resumes / CVs
-Project Reports
-Technical Documentation
-Datasets
-Excel / CSV Files
-Presentations
-Legal Documents
-Business Documents
-Academic Notes
-Certificates
-User Manuals
-General Documents
+* Research Papers
+* Resumes / CVs
+* Project Reports
+* Technical Documentation
+* Datasets
+* Excel / CSV Files
+* Presentations
+* Legal Documents
+* Business Documents
+* Academic Notes
+* Certificates
+* User Manuals
+* General Documents
+
 Features include:
 
-Automatic document classification.
-AI-powered summarization.
-Key information extraction.
-Structured analysis reports.
-Document-specific analysis.
-Downloadable analysis reports.
-💬 7. Chat & Conversation Management
-Create new conversations.
-Persistent chat history.
-Continue previous conversations.
-User-specific conversations.
-Recent chat management.
-Delete conversations.
-Clear chat history.
-Persistent conversation storage.
-Conversation export.
-🔐 8. User Authentication & Session Management
-User registration.
-User login/logout.
-Gmail-based email validation.
-Name validation.
-Strong password validation.
-Duplicate email prevention.
-PBKDF2-SHA256 password hashing.
-Unique random password salts.
-Secure random session tokens.
-Persistent login sessions.
-Session validation.
-Session expiration.
-Logout from all devices.
-Expired session cleanup.
-🎙️ 9. Voice Assistant
-Voice-based interaction.
-Speech-to-text using Faster-Whisper.
-Voice-based document questions.
-Voice-based web research.
-Voice command recognition.
-Noise calibration.
-Voice Activity Detection (VAD).
-Speech recognition hallucination filtering.
-Fuzzy command matching using RapidFuzz.
-Supports website and application opening commands.
+* Automatic document classification.
+* AI-powered summarization.
+* Key information extraction.
+* Structured analysis reports.
+* Document-specific analysis.
+* Downloadable analysis reports.
+
+### 💬 7. Chat & Conversation Management
+
+* Create new conversations.
+* Persistent chat history.
+* Continue previous conversations.
+* User-specific conversations.
+* Recent chat management.
+* Delete conversations.
+* Clear chat history.
+* Persistent conversation storage.
+* Conversation export.
+
+### 🔐 8. User Authentication & Session Management
+
+* User registration.
+* User login/logout.
+* Gmail-based email validation.
+* Name validation.
+* Strong password validation.
+* Duplicate email prevention.
+* PBKDF2-SHA256 password hashing.
+* Unique random password salts.
+* Secure random session tokens.
+* Persistent login sessions.
+* Session validation.
+* Session expiration.
+* Logout from all devices.
+* Expired session cleanup.
+
+### 🎙️ 9. Voice Assistant
+
+* Voice-based interaction.
+* Speech-to-text using Faster-Whisper.
+* Voice-based document questions.
+* Voice-based web research.
+* Voice command recognition.
+* Noise calibration.
+* Voice Activity Detection (VAD).
+* Speech recognition hallucination filtering.
+* Fuzzy command matching using RapidFuzz.
+* Supports website and application opening commands.
+
 Example commands:
 
+```text
 Open YouTube
 Open Google
 Open Gmail
@@ -129,11 +149,15 @@ Open GitHub
 Open LinkedIn
 Open Naukri
 Open ChatGPT
-🌐 10. Website & Application Launcher
-Users can open supported websites directly through voice or chat commands.
+```
+
+### 🌐 10. Website & Application Launcher
+
+Users can open supported websites directly through **voice or chat commands**.
 
 Examples:
 
+```text
 "Open YouTube"
 "Open Google"
 "Open Gmail"
@@ -141,42 +165,54 @@ Examples:
 "Open LinkedIn"
 "Open Naukri"
 "Open ChatGPT"
+```
+
 The assistant detects the user's intent, identifies the requested website/application, and opens it directly in the browser.
 
-🔊 11. Text-to-Speech
-Converts AI responses into speech.
-Supports pyttsx3.
-Supports Edge TTS.
-Cleans Markdown content before speech generation.
-Provides a more natural voice interaction experience.
-Enables voice-based responses after AI processing.
-🖼️ 12. AI Image Generation
-Generate images from text prompts.
-OpenAI Image Generation API integration.
-Supports gpt-image-1.
-Converts natural-language descriptions into generated visuals.
-⚡ 13. Performance & Reliability
-Streamlit caching for expensive resources.
-Cached LLM initialization.
-Cached embedding models.
-Persistent FAISS vector database.
-Response-time tracking.
-API rate-limit handling.
-User-friendly error handling.
-Retry handling for transient API failures.
-Relevance/similarity filtering for retrieved content.
-🔒 14. Privacy & Data Isolation
-User-specific authentication.
-User-specific conversations.
-Session-based access control.
-Passwords are never stored in plain text.
-PBKDF2-SHA256 password hashing.
-Sensitive API credentials stored through environment variables.
-.env support for API credentials.
-Separate conversation storage for users.
-🚀 15. AI Research Assistant Workflow
+### 🔊 11. Text-to-Speech
+
+* Converts AI responses into speech.
+* Supports `pyttsx3`.
+* Supports Edge TTS.
+* Cleans Markdown content before speech generation.
+* Provides a more natural voice interaction experience.
+* Enables voice-based responses after AI processing.
+
+### 🖼️ 12. AI Image Generation
+
+* Generate images from text prompts.
+* OpenAI Image Generation API integration.
+* Supports `gpt-image-1`.
+* Converts natural-language descriptions into generated visuals.
+
+### ⚡ 13. Performance & Reliability
+
+* Streamlit caching for expensive resources.
+* Cached LLM initialization.
+* Cached embedding models.
+* Persistent FAISS vector database.
+* Response-time tracking.
+* API rate-limit handling.
+* User-friendly error handling.
+* Retry handling for transient API failures.
+* Relevance/similarity filtering for retrieved content.
+
+### 🔒 14. Privacy & Data Isolation
+
+* User-specific authentication.
+* User-specific conversations.
+* Session-based access control.
+* Passwords are never stored in plain text.
+* PBKDF2-SHA256 password hashing.
+* Sensitive API credentials stored through environment variables.
+* `.env` support for API credentials.
+* Separate conversation storage for users.
+
+### 🚀 15. AI Research Assistant Workflow
+
 The application combines document understanding, web research, voice interaction, and AI generation into a single workflow.
 
+```text
                     User
                      │
             ┌────────┴────────┐
@@ -202,7 +238,13 @@ The application combines document understanding, web research, voice interaction
               AI Generated Answer
                      ↓
               Sources / References
-🏗️ RAG Pipeline
+```
+
+---
+
+## 🏗️ RAG Pipeline
+
+```text
 Upload Documents
        ↓
 Document Loading
@@ -226,7 +268,13 @@ Groq LLM
 Grounded AI Answer
        ↓
 Source References
-🎙️ Voice Assistant Pipeline
+```
+
+---
+
+## 🎙️ Voice Assistant Pipeline
+
+```text
 Microphone
     ↓
 Noise Calibration
@@ -248,40 +296,65 @@ RAG Query     Web Search      Website Command
     AI Response
         ↓
    Text-to-Speech
-🧰 Technology Stack
-Programming & UI
-Python
-Streamlit
-AI & LLM
-Groq API
-LangChain
-Hugging Face Sentence Transformers
-OpenAI Image Generation API
-RAG & Search
-FAISS
-DuckDuckGo / DDGS
-LangChain Document Processing
-Voice
-Faster-Whisper
-RapidFuzz
-SoundDevice
-Voice Activity Detection
-Text-to-Speech
-Edge TTS
-pyttsx3
-Authentication & Storage
-SQLite
-PBKDF2-SHA256
-Secure Session Tokens
-Document Processing
-PyPDF
-python-docx
-Pandas
-OpenPyXL
-python-pptx
-Configuration
-python-dotenv
-📁 Project Structure
+```
+
+---
+
+## 🧰 Technology Stack
+
+### Programming & UI
+
+* **Python**
+* **Streamlit**
+
+### AI & LLM
+
+* **Groq API**
+* **LangChain**
+* **Hugging Face Sentence Transformers**
+* **OpenAI Image Generation API**
+
+### RAG & Search
+
+* **FAISS**
+* **DuckDuckGo / DDGS**
+* **LangChain Document Processing**
+
+### Voice
+
+* **Faster-Whisper**
+* **RapidFuzz**
+* **SoundDevice**
+* **Voice Activity Detection**
+
+### Text-to-Speech
+
+* **Edge TTS**
+* **pyttsx3**
+
+### Authentication & Storage
+
+* **SQLite**
+* **PBKDF2-SHA256**
+* **Secure Session Tokens**
+
+### Document Processing
+
+* **PyPDF**
+* **python-docx**
+* **Pandas**
+* **OpenPyXL**
+* **python-pptx**
+
+### Configuration
+
+* **python-dotenv**
+
+---
+
+## 📁 Project Structure
+
+```text
 RAG Assistant/
 │
 ├── app.py                      # Main Streamlit application
@@ -312,73 +385,153 @@ RAG Assistant/
 ├── .env                        # API credentials
 ├── .gitignore                  # Git ignored files
 └── README.md
-🚀 Installation & Setup
-1. Clone the Repository
+```
+
+---
+
+## 🚀 Installation & Setup
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
 cd YOUR_REPOSITORY
-2. Create a Virtual Environment
-Windows
+```
+
+### 2. Create a Virtual Environment
+
+#### Windows
+
+```bash
 python -m venv rag_env
+```
+
 Activate the environment:
 
+```bash
 rag_env\Scripts\activate
-Linux / macOS
+```
+
+#### Linux / macOS
+
+```bash
 python3 -m venv rag_env
 source rag_env/bin/activate
-3. Install Dependencies
-pip install -r requirements.txt
-4. Configure Environment Variables
-Create a .env file in the project root:
+```
 
+---
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 4. Configure Environment Variables
+
+Create a `.env` file in the project root:
+
+```env
 GROQ_API_KEY=your_groq_api_key
 OPENAI_API_KEY=your_openai_api_key
-OPENAI_API_KEY is required only for the AI image-generation functionality.
+```
 
-⚠️ Never commit .env or API keys to GitHub.
+`OPENAI_API_KEY` is required only for the AI image-generation functionality.
 
-5. Run the Application
+> ⚠️ **Never commit `.env` or API keys to GitHub.**
+
+---
+
+### 5. Run the Application
+
+```bash
 streamlit run app.py
+```
+
 The application will be available at:
 
+```text
 http://localhost:8501
-💡 Example Usage
-📄 Ask Questions About Documents
+```
+
+---
+
+## 💡 Example Usage
+
+### 📄 Ask Questions About Documents
+
 Upload a document and ask:
 
+```text
 Summarize this document.
+```
+
+```text
 What methodology was used?
+```
+
+```text
 What are the key findings?
+```
+
+```text
 Explain this document in simple terms.
-🌐 Perform Web Research
+```
+
+---
+
+### 🌐 Perform Web Research
+
 Ask questions such as:
 
+```text
 What are the latest developments in this technology?
+```
+
 If the required information is not available in the uploaded documents, the assistant can use web search.
 
-🎙️ Use Voice Commands
+---
+
+### 🎙️ Use Voice Commands
+
 You can interact with the assistant using voice commands:
 
+```text
 Open YouTube
 Open Google
 Open Gmail
 Open GitHub
 Open LinkedIn
 Open Naukri
+```
+
 You can also ask document and research questions through voice.
 
-💬 Use Chat Commands
+---
+
+### 💬 Use Chat Commands
+
 The same website-opening functionality is available through text chat:
 
+```text
 Open YouTube
 Open GitHub
 Open Gmail
+```
+
 The assistant detects the command and opens the requested website.
 
-📊 Document Analysis
+---
+
+## 📊 Document Analysis
+
 The document analysis system can automatically identify and analyze different types of content.
 
 Example workflow:
 
+```text
 Upload Document
        ↓
 Document Classification
@@ -392,22 +545,37 @@ AI Summarization
 Structured Analysis Report
        ↓
 Download Report
-🔐 Authentication & Data Storage
+```
+
+---
+
+## 🔐 Authentication & Data Storage
+
 The application uses SQLite for authentication and local storage.
 
-User Database
+### User Database
+
+```text
 users.db
+```
+
 Stores:
 
-User accounts
-Hashed passwords
-Authentication/session information
-Conversation Storage
+* User accounts
+* Hashed passwords
+* Authentication/session information
+
+### Conversation Storage
+
+```text
 conversations/
+```
+
 Stores user-specific conversation history.
 
 Example:
 
+```text
 conversations/
 │
 ├── user1/
@@ -416,42 +584,62 @@ conversations/
 │
 └── user2/
     └── conversation_1.json
-🛡️ Security
+```
+
+---
+
+## 🛡️ Security
+
 The authentication system includes:
 
-PBKDF2-SHA256 password hashing
-Unique password salts
-Secure random session tokens
-Password validation
-Email validation
-Session expiration
-User-specific conversation storage
-Environment-based API credentials
+* PBKDF2-SHA256 password hashing
+* Unique password salts
+* Secure random session tokens
+* Password validation
+* Email validation
+* Session expiration
+* User-specific conversation storage
+* Environment-based API credentials
+
 For production deployment, additional security measures such as HTTPS, secure cookie configuration, CSRF protection, centralized secret management and production-grade authentication should be implemented.
 
-📤 Conversation Export
+---
+
+## 📤 Conversation Export
+
 Users can export their conversations for offline use.
 
 Supported export formats include:
 
-PDF
-TXT
+* PDF
+* TXT
+
 This allows users to save important research discussions and AI-generated responses.
 
-⚙️ Groq LLM
+---
+
+## ⚙️ Groq LLM
+
 The application uses Groq-hosted LLMs for fast AI responses.
 
 Configured models include:
 
+```text
 llama-3.3-70b-versatile
 llama-3.1-8b-instant
+```
+
 The model can be selected/configured depending on the task and API availability.
 
-🗃️ FAISS Vector Store
+---
+
+## 🗃️ FAISS Vector Store
+
 FAISS is used for efficient semantic similarity search.
 
 The process is:
 
+```text
 Documents
     ↓
 Chunks
@@ -463,61 +651,112 @@ FAISS Index
 Similarity Search
     ↓
 Relevant Context
+```
+
 This enables the assistant to retrieve the most relevant document content before generating an answer.
 
-🔄 Query Routing Logic
+---
+
+## 🔄 Query Routing Logic
+
 The assistant can determine whether a query requires:
 
-📄 Document Search
+### 📄 Document Search
+
 Used when the answer should come from uploaded documents.
 
+```text
 "What is the conclusion of this research paper?"
-🌐 Web Search
+```
+
+### 🌐 Web Search
+
 Used when external/current information is required.
 
+```text
 "What are the latest developments in AI?"
-🔄 Document + Web
+```
+
+### 🔄 Document + Web
+
 Used when both uploaded content and external information are useful.
 
+```text
 "Compare the technology in my document with the latest developments."
-🤖 Direct LLM
+```
+
+### 🤖 Direct LLM
+
 Used for general questions that don't require document or web retrieval.
 
-🧪 Troubleshooting
-Missing API Key
-Make sure your .env file contains:
+---
 
+## 🧪 Troubleshooting
+
+### Missing API Key
+
+Make sure your `.env` file contains:
+
+```env
 GROQ_API_KEY=your_groq_api_key
+```
+
 For image generation:
 
+```env
 OPENAI_API_KEY=your_openai_api_key
-Restart Streamlit after modifying .env.
+```
 
-Dependency Issues
+Restart Streamlit after modifying `.env`.
+
+---
+
+### Dependency Issues
+
 Make sure the virtual environment is activated:
 
+```bash
 rag_env\Scripts\activate
+```
+
 Then reinstall dependencies:
 
+```bash
 pip install -r requirements.txt
-Voice Assistant Issues
+```
+
+---
+
+### Voice Assistant Issues
+
 Ensure the required voice dependencies are installed:
 
+```bash
 pip install faster-whisper rapidfuzz sounddevice
+```
+
 Additional system-level audio dependencies may be required depending on the operating system.
 
-FAISS / Vector Store Issues
+---
+
+### FAISS / Vector Store Issues
+
 If document retrieval is not working:
 
-Restart the application.
-Re-upload the documents.
-Rebuild the vector store if required.
-Check that the embedding dependencies are installed correctly.
-🔮 Future Development
+1. Restart the application.
+2. Re-upload the documents.
+3. Rebuild the vector store if required.
+4. Check that the embedding dependencies are installed correctly.
+
+---
+
+## 🔮 Future Development
+
 A separate backend architecture is also being developed to evolve this Streamlit application into a more scalable system.
 
 Planned architecture:
 
+```text
 Frontend
    ↓
 FastAPI Backend
@@ -527,19 +766,26 @@ PostgreSQL
 pgvector
    ↓
 RAG / AI Services
+```
+
 Potential improvements include:
 
-FastAPI backend
-PostgreSQL database
-SQLAlchemy
-Alembic migrations
-pgvector-based vector search
-Dedicated frontend
-Production-grade authentication
-Scalable deployment
-Improved document processing
-Advanced retrieval and reranking
-📌 Project Highlights
+* FastAPI backend
+* PostgreSQL database
+* SQLAlchemy
+* Alembic migrations
+* pgvector-based vector search
+* Dedicated frontend
+* Production-grade authentication
+* Scalable deployment
+* Improved document processing
+* Advanced retrieval and reranking
+
+---
+
+## 📌 Project Highlights
+
+```text
 ✓ Multi-format document processing
 ✓ Multi-document RAG
 ✓ Semantic document search
@@ -558,10 +804,21 @@ Advanced retrieval and reranking
 ✓ FAISS vector search
 ✓ Groq LLM integration
 ✓ API rate-limit handling
-📜 License
-This is a personal/academic project and currently does not specify an open-source license.
+```
 
-⭐ Support
+---
+
+## 📜 License
+
+This is a **personal/academic project** and currently does not specify an open-source license.
+
+---
+
+
+## ⭐ Support
+
 If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
 
-RAG Assistant — Chat with your documents, research the web, and interact with AI using text or voice.
+---
+
+> **RAG Assistant — Chat with your documents, research the web, and interact with AI using text or voice.**
